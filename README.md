@@ -5,5 +5,5 @@
 para rodar esse projeto...
 
 ```
-instal node
+node app js
 ```
